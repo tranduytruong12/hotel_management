@@ -1,0 +1,38 @@
+/* frame index */
+.sidenav{
+    box-sizing: border-box;
+    width: 15em;
+}
+
+.sidenav a{
+    color: black;
+}
+.sidenav .nav .nav-link.active{
+    background-color: gainsboro;
+    color: black;
+}
+
+/* css in manage-index.htlm */
+.summary__element{
+    box-sizing: border-box;
+    background-color: gainsboro;
+    width: 22em;
+}
+
+.topsales{
+    box-sizing: border-box;
+    border: 1em solid whitesmoke;
+}
+
+/* css in manage-index-product-list.html */
+.productlist_main{
+    box-sizing: border-box;
+    background-color: gainsboro;
+}
+
+#filter_header_two{
+    box-sizing: border-box;
+    background-color: #E8CA7E;
+}
+
+/* hello */
